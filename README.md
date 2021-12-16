@@ -1,3 +1,3 @@
 # MobileRobot
-Obstacles and Edge avoiding robot using reinforcement learning
+Obstacles and Edge avoiding robot using D-Q learning
 
