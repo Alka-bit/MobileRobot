@@ -1,2 +1,3 @@
 # MobileRobot
-Obstacles and Edge avoiding robot
+Obstacles and Edge avoiding robot using reinforcement learning
+
